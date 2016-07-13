@@ -1,4 +1,4 @@
-*NOTE: See more detailed [installation instructions](https://github.com/greglinch/datawrapper/wiki/Datawrapper-self-hosted-installation-detailed-instructions).*
+*NOTE: See more detailed [installation instructions](https://github.com/greglinch/datawrapper/wiki/Detailed-installation-instructions).*
 
 # Datawrapper
 
