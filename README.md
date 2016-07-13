@@ -1,4 +1,4 @@
-*NOTE: See more detailed [installation instructions](https://github.com/greglinch/datawrapper/wiki/Detailed-installation-instructions).*
+*NOTE: See more detailed [installation instructions](https://gist.github.com/greglinch/dd964d56db5e3522d1fad17fd72d4251).*
 
 # Datawrapper
 
